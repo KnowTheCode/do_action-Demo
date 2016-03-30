@@ -1,0 +1,1 @@
+<span class="<?php esc_attr_e( $font_icon ); ?>"></span> <?php echo $post_title; ?>
